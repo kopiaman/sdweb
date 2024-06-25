@@ -13,12 +13,26 @@
           </h4>
 
           <h4 class="font-bold text-tertiary">
-            <br />Adakah anda hendak mengurangkan komitmen bulanan sebanyak
-            30%-70%? <br />Adakah anda nak tingkatkan simpanan ke 5-6 angka?
-            <br />Adakah anda nak akses dalaman hartanah dengan 30%-40% diskaun?
-            <br />Adakah anda nak beli hartanah dengan minimum atau sifar down
-            payment? <br />Adakah anda nak cari duit sampingan RM2k ~ RM20K++
-            tanpa berhenti kerja?
+            <br />
+            <fa-icon icon="check" class="mr-2" />
+            Adakah anda hendak mengurangkan komitmen bulanan sebanyak 30%-70%?
+            <br />
+            <br />
+
+            <fa-icon icon="check" class="mr-2" />Adakah anda nak tingkatkan
+            simpanan ke 5-6 angka? <br />
+            <br />
+
+            <fa-icon icon="check" class="mr-2" />Adakah anda nak akses dalaman
+            hartanah dengan 30%-40% diskaun? <br />
+            <br />
+
+            <fa-icon icon="check" class="mr-2" />Adakah anda nak beli hartanah
+            dengan minimum atau sifar down payment? <br />
+            <br />
+
+            <fa-icon icon="check" class="mr-2" />Adakah anda nak cari duit
+            sampingan RM2k ~ RM20K++ tanpa berhenti kerja?
           </h4>
           <h4>
             <br />Kalau semua itu ya, jom daftar melalui kami secara percuma,
@@ -32,28 +46,36 @@
             href="https://forms.gle/NAxGq2nEiLgfaj6J8"
             target="_blank"
           >
-            <span class="text-light">Saya nak mulakan sekarang!</span>
-            <i class="fas fa-arrow-right pl-2 text-light"></i>
+            <span class="text-light mr-3">Saya nak mulakan sekarang!</span>
+            <fa-icon icon="arrow-right" />
           </button>
           <meta charset="utf-8" />
           <a
             class="btn btn-lg mt-4 bg-white border-primary"
             href="/#testimonialHeader"
           >
-            <span>Saya masih tak percaya</span>
-            <i class="fas fa-arrow-right pl-2"></i>
+            <span class="mr-3">Saya masih tak percaya</span>
+
+            <fa-icon icon="arrow-right" />
           </a>
           <ul class="list-none mt-4 text-primary font-semibold mb-6">
-            <li class=""><i class="fas fa-check mr-2"></i>Tiada paksaan</li>
             <li class="">
-              <i class="fas fa-check mr-2"></i>Bukan MLM / Skim Cepat Kaya
+              <fa-icon icon="check" class="mr-2 text-primary" />
+
+              Tiada paksaan
             </li>
             <li class="">
-              <i class="fas fa-check mr-2"></i>Bukan Direct Selling
+              <fa-icon icon="check" class="mr-2 text-primary" />Bukan MLM / Skim
+              Cepat Kaya
+            </li>
+            <li class="">
+              <fa-icon icon="check" class="mr-2 text-primary" />Bukan Direct
+              Selling
             </li>
             <meta charset="utf-8" />
             <li class="">
-              <i class="fas fa-check mr-2"></i>Program diiktiraf kerajaan
+              <fa-icon icon="check" class="mr-2 text-primary" />Program
+              diiktiraf kerajaan
             </li>
           </ul>
         </div>

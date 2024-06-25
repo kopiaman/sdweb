@@ -10,7 +10,7 @@
         <div class="col md:w-6/12 lg:w-4/12 mb-5">
           <div class="bg-primary-50 p-6 h-full">
             <div class="mb-5">
-              <i class="r text-5xl text-primary fas fa-anchor fa-5x"></i>
+              <FaIcon class="text-5xl text-primary" icon="anchor" />
             </div>
             <h3 class="font-semibold mb-3">
               Individu yang mempunyai pelbagai hutang buruk dengan komitmen
@@ -24,7 +24,7 @@
         <div class="col md:w-6/12 lg:w-4/12 mb-5">
           <div class="bg-primary-50 p-6 h-full">
             <div class="mb-5">
-              <i class="text-5xl text-primary fas fa-warehouse fa-5x"></i>
+              <FaIcon class="text-5xl text-primary" icon="warehouse" />
             </div>
             <h3 class="font-semibold mb-3">
               Individu yang ingin membina portfolio pelaburan hartanah dengan
@@ -36,7 +36,7 @@
         <div class="col md:w-6/12 lg:w-4/12 mb-5">
           <div class="bg-primary-50 p-6 h-full">
             <div class="mb-5">
-              <i class="text-5xl text-primary fas fa-running fa-5x"></i>
+              <FaIcon class="text-5xl text-primary" icon="running" />
             </div>
             <h3 class="font-semibold mb-3">
               Individu yang makan gaji tetapi terlalu sibuk untuk mencari
@@ -51,7 +51,7 @@
         <div class="col md:w-6/12 lg:w-4/12 mb-5">
           <div class="bg-primary-50 p-6 h-full">
             <div class="mb-5">
-              <i class="text-5xl text-primary fas fa-allergies fa-5x"></i>
+              <FaIcon class="text-5xl text-primary" icon="hand-holding-usd" />
             </div>
             <h3 class="font-semibold mb-3">
               Individu yang tidak tahu mengenai pelaburan hartanah
@@ -65,7 +65,7 @@
         <div class="col md:w-6/12 lg:w-4/12 mb-5">
           <div class="bg-primary-50 p-6 h-full">
             <div class="mb-5">
-              <i class="text-5xl text-primary fas fa-house-damage fa-5x"></i>
+              <FaIcon class="text-5xl text-primary" icon="house-damage" />
             </div>
             <h3 class="font-semibold mb-3">
               Individu yang ingin mendapatkan harta yang tidak merugikan
@@ -80,7 +80,7 @@
         <div class="col md:w-6/12 lg:w-4/12 mb-5">
           <div class="bg-primary-50 p-6 h-full">
             <div class="mb-5">
-              <i class="text-5xl text-primary fas fa-hands-helping fa-5x"></i>
+              <FaIcon class="text-5xl text-primary" icon="hands-helping" />
             </div>
             <h3 class="font-semibold mb-3">
               Individu yang sukar mendapat pinjaman bank

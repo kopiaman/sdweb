@@ -5,12 +5,7 @@ const typedElement = ref(null);
 
 onMounted(() => {
   const options = {
-    strings: [
-      "hutang kredit kad?",
-      "hutang pinjaman peribadi?",
-      "hutang rumah?",
-      "hutang kereta?",
-    ],
+    strings: ["hutang kredit kad?", "pinjaman peribadi?", "hutang kereta?"],
     typeSpeed: 50,
     backSpeed: 50,
     loop: true,

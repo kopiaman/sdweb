@@ -14,23 +14,26 @@
           <ul class="w-3/4 mx-auto mb-6 list-none text-white lg:float-right">
             <li>
               <p>
-                <i class="fa fa-check mr-4 text-primary"></i>Hutang kereta ?
+                <fa-icon icon="check" class="mr-4 text-primary" />Hutang kereta
+                ?
               </p>
             </li>
             <li>
               <p>
-                <i class="fa fa-check mr-4 text-primary"></i> Hutang pinjaman
-                peribadi ?
+                <fa-icon icon="check" class="mr-4 text-primary" />
+                Hutang pinjaman peribadi ?
               </p>
             </li>
             <li>
               <p>
-                <i class="fa fa-check mr-4 text-primary"></i> Hutang Motosikal ?
+                <fa-icon icon="check" class="mr-4 text-primary" />
+                Hutang Motosikal ?
               </p>
             </li>
             <li>
               <p>
-                <i class="fa fa-check mr-4 text-primary"></i>Buy Now Pay Later ?
+                <fa-icon icon="check" class="mr-4 text-primary" />Buy Now Pay
+                Later ?
               </p>
             </li>
             <li></li>
@@ -40,26 +43,27 @@
           <ul class="w-3/4 mx-auto mb-6 list-none text-white lg:float-left">
             <li>
               <p>
-                <i class="fa fa-check mr-4 text-primary"></i> Hutang Kad Kredit
-                ?
+                <fa-icon icon="check" class="mr-4 text-primary" />
+                Hutang Kad Kredit ?
               </p>
             </li>
             <li>
               <meta charset="utf-8" />
               <p>
-                <i class="fa fa-check mr-4 text-primary"></i>Hutang dengan
+                <fa-icon icon="check" class="mr-4 text-primary" />Hutang
                 Kawan/Keluarga ?
               </p>
             </li>
             <li>
               <p>
-                <i class="fa fa-check mr-4 text-primary"></i>Hutang Ahlong ?
+                <fa-icon icon="check" class="mr-4 text-primary" />Hutang Ahlong
+                ?
               </p>
             </li>
             <li>
               <p>
-                <i class="fa fa-check mr-4 text-primary"></i>Hutang pinjaman
-                pendidikan ?
+                <fa-icon icon="check" class="mr-4 text-primary" />Hutang
+                pinjaman pendidikan ?
               </p>
             </li>
             <li></li>
@@ -90,7 +94,6 @@
         <div class="col md:w-8/12 mx-auto text-center">
           <h2
             class="display-6 mb-3 font-semibold duration-[3000ms] ease-out taos:opacity-0"
-            data-taos-offset="0"
           >
             anda terfikir.. alangkah baik jika aku dapat membayar semua hutang
             tersebut sekaligus
@@ -108,7 +111,6 @@
         <div class="col md:w-8/12 mx-auto text-center">
           <h2
             class="display-6 mb-3 font-semibold duration-[3000ms] ease-out taos:opacity-0"
-            data-taos-offset="0"
           >
             .. lagi baik jika aku dapat tambah pendapatan aku tanpa perlu
             berhenti kerja

@@ -7,6 +7,7 @@
   <TestimonialMore />
   <StoryReally />
   <StoryProgram />
+  <Founder />
   <Benefit />
   <Target />
   <WhoShouldJoin />

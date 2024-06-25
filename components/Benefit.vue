@@ -3,17 +3,13 @@
     <div class="container">
       <div class="row">
         <div class="col">
-          <h2
-            class="display-4 font-semibold text-center taos:[transform:perspective(2500px)_rotateX(-100deg)] taos:opacity-0"
-          >
+          <h2 class="display-4 font-semibold text-center" data-aos="fade-down">
             Apa yang saya dapat daripada program ini?
           </h2>
         </div>
       </div>
       <div class="row pt-6">
-        <div
-          class="col mx-auto my-6 md:w-8/12 lg:w-4/12 taos:translate-y-[-200px] taos:opacity-0"
-        >
+        <div class="col mx-auto my-6 md:w-8/12 lg:w-4/12" data-aos="fade-down">
           <div class="rounded overflow-hidden">
             <div class="relative overflow-hidden h-[300px]">
               <img
@@ -55,8 +51,10 @@
             </div>
           </div>
         </div>
+
         <div
-          class="col mx-auto my-6 delay-[50ms] md:w-8/12 lg:w-4/12 taos:translate-y-[-200px] taos:opacity-0"
+          class="col mx-auto my-6 delay-[50ms] md:w-8/12 lg:w-4/12"
+          data-aos="fade-down"
         >
           <div class="rounded overflow-hidden">
             <div class="relative overflow-hidden h-[300px]">
@@ -100,7 +98,8 @@
           </div>
         </div>
         <div
-          class="col mx-auto my-6 delay-[100ms] md:w-8/12 lg:w-4/12 taos:translate-y-[-200px]"
+          class="col mx-auto my-6 delay-[100ms] md:w-8/12 lg:w-4/12"
+          data-aos="fade-down"
         >
           <div class="rounded overflow-hidden">
             <div class="relative overflow-hidden h-[300px]">
@@ -144,10 +143,11 @@
           </div>
         </div>
       </div>
-      <meta charset="utf-8" />
+
       <div class="row pt-6">
         <div
-          class="col mx-auto my-6 delay-[120ms] md:w-8/12 lg:w-4/12 taos:translate-y-[-200px] taos:opacity-0"
+          class="col mx-auto my-6 delay-[120ms] md:w-8/12 lg:w-4/12"
+          data-aos="fade-down"
         >
           <div class="rounded overflow-hidden">
             <div class="relative overflow-hidden h-[300px]">
@@ -191,8 +191,10 @@
             </div>
           </div>
         </div>
+
         <div
-          class="col mx-auto my-6 delay-[150ms] md:w-8/12 lg:w-4/12 taos:translate-y-[-200px]"
+          class="col mx-auto my-6 delay-[150ms] md:w-8/12 lg:w-4/12"
+          data-aos="fade-down"
         >
           <div class="rounded overflow-hidden">
             <div class="relative overflow-hidden h-[300px]">
@@ -245,8 +247,10 @@
             </div>
           </div>
         </div>
+
         <div
-          class="col mx-auto my-6 delay-[200ms] md:w-8/12 lg:w-4/12 taos:translate-y-[-200px]"
+          class="col mx-auto my-6 delay-[200ms] md:w-8/12 lg:w-4/12"
+          data-aos="fade-down"
         >
           <div class="rounded overflow-hidden">
             <div class="relative overflow-hidden h-[300px]">
