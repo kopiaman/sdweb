@@ -7,7 +7,7 @@
           alt="company logo"
           src="https://d1pnnwteuly8z3.cloudfront.net/images/dafc1e05-b0e8-4c6d-b375-4a62333bbd5a/7b42a557-d0ca-43cd-8f4c-796756bad4c1.svg"
         />
-        <span class="text-secondary">nakSelesaiHutangCepat.my</span>
+        <span class="text-secondary">NakSelesaiHutangCepat.my</span>
       </a>
       <button
         class="navbar-btn"
@@ -50,6 +50,7 @@
                 class="inline-block"
                 data-toggle="typed"
                 data-options="{'loop':true,'strings':['hutang kredit kad?', 'hutang pinjaman peribadi?', 'hutang rumah?', 'hutang kereta?']}"
+                id="typewriter"
                 >hutang & komitmen yang tinggi?</span
               >
             </span>
@@ -265,7 +266,6 @@
       </div>
     </div>
   </section>
-  <meta charset="utf-8" />
   <section class="py-20 bg-info-200" id="alangkah">
     <div class="container">
       <div class="row">
@@ -945,7 +945,6 @@
       </div>
     </div>
   </section>
-  <meta charset="utf-8" />
   <section class="py-20 bg-primary-50 taos:opacity-0" id="testimonials">
     <div class="container">
       <div class="row items-center">
@@ -1394,7 +1393,7 @@
       </p>
     </div>
   </section>
-  <section class="py-28 bg-info-200" id="features">
+  <section class="py-28 bg-info-200" id="whoShouldJoin">
     <div class="container">
       <div class="row justify-center pb-12">
         <div class="col text-center">
@@ -1490,21 +1489,20 @@
       </div>
     </div>
   </section>
-  <meta charset="utf-8" />
-  <section class="py-28 bg-info-300" id="cta">
+
+  <section class="py-28 bg-info-300" id="lastCta">
     <div class="container">
       <div class="row text-center">
         <div class="col mb-4">
           <h3 class="font-semibold display-6 mb-3">
             Lebih 23,000 telah berjaya mendapat manfaat
           </h3>
-          <meta charset="utf-8" />
+
           <h4>
             Jangan lepaskan peluang, jangan biarkan anda terus serabut mencari
             solusi.
           </h4>
-          <meta charset="utf-8" />
-          <meta charset="utf-8" />
+
           <h4 class="font-bold text-tertiary">
             <br />Adakah anda hendak mengurangkan komitmen bulanan sebanyak
             30%-70%? <br />Adakah anda nak tingkatkan simpanan ke 5-6 angka?
@@ -1521,7 +1519,7 @@
         </div>
         <div class="col">
           <button
-            class="btn btn-primary btn-ghost btn-lg mt-4 mr-4 bg-primary border-primary"
+            class="btn btn-primary btn-lg mt-4 mr-4 bg-primary border-primary"
             href="https://forms.gle/NAxGq2nEiLgfaj6J8"
             target="_blank"
           >
@@ -1530,7 +1528,7 @@
           </button>
           <meta charset="utf-8" />
           <a
-            class="btn btn-lg mt-4 bg-white btn-ghost btn-primary border-primary"
+            class="btn btn-lg mt-4 bg-white border-primary"
             href="/#testimonialHeader"
           >
             <span>Saya masih tak percaya</span>
@@ -1559,13 +1557,11 @@
         <div class="col md:w-9/12">
           <p class="text-light">© 2024 NakSelesaiHutangCepat.my</p>
         </div>
-        <div class="col md:w-3/12 flex md:justify-end">
+        <!-- <div class="col md:w-3/12 flex md:justify-end">
           <a class="text-dark" href="#" title="facebook"></a>
           <a class="text-dark" href="#" title="Instagram"></a>
-        </div>
+        </div> -->
       </div>
     </div>
   </footer>
-  <form data-formid="625cd48b-7d67-49db-a3f7-22d22a78fa96"></form>
-  <meta charset="utf-8" />
 </template>
