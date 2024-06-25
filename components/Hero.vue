@@ -1,3 +1,25 @@
+<script setup lang="ts">
+import Typed from "typed.js";
+
+const typedElement = ref(null);
+
+onMounted(() => {
+  const options = {
+    strings: [
+      "hutang kredit kad?",
+      "hutang pinjaman peribadi?",
+      "hutang rumah?",
+      "hutang kereta?",
+    ],
+    typeSpeed: 50,
+    backSpeed: 50,
+    loop: true,
+  };
+
+  new Typed(typedElement.value, options);
+});
+</script>
+
 <template>
   <section class="py-28" id="header">
     <div class="container">
@@ -5,11 +27,7 @@
         <div class="col lg:w-9/12 text-center md:w-10/12">
           <h1 class="display-4 mb-6 font-semibold text-dark">
             Anda dah serabut dengan<span class="block text-secondary">
-              <span
-                class="inline-block"
-                data-toggle="typed"
-                data-options="{'loop':true,'strings':['hutang kredit kad?', 'hutang pinjaman peribadi?', 'hutang rumah?', 'hutang kereta?']}"
-                id="typewriter"
+              <span class="inline-block" ref="typedElement"
                 >hutang & komitmen yang tinggi?</span
               >
             </span>
