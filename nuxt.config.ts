@@ -3,6 +3,9 @@ const title =
   "NakSelesaiHutangCepat.my - Settle hutang, tambah pendapatan dan simpanan anda";
 const desc =
   "Kami ada cara untuk anda mengurangkan komitmen sekurang-kurangnya 40% sampai sifar hutang. Malah kami beri solusi tambah simpanan sampai 5-6 angka! Lagi best, cara tambah duit side income RM2K-RM20K++!";
+const ogImage =
+  "https://d1pnnwteuly8z3.cloudfront.net/images/fc70ebef-0954-4785-87d1-9e4b49295ad5/54896a41-ac63-4f3e-83f1-2f555fb11610.png";
+
 export default defineNuxtConfig({
   devtools: { enabled: true },
   app: {
@@ -13,7 +16,14 @@ export default defineNuxtConfig({
       meta: [
         { name: "description", content: desc },
         { hid: "og:title", name: "og:title", content: title },
-        { hid: "description", name: "description", content: desc },
+        { hid: "og:description", name: "og:description", content: desc },
+        { hid: "og:image", name: "og:image", content: ogImage },
+
+        { name: "twitter:card", content: "summary_large_image" },
+        { name: "twitter:title", content: title },
+        { name: "twitter:description", content: desc },
+        { name: "twitter:image", content: ogImage },
+
         { name: "msapplication-TileColor", content: "#da532c" },
         { name: "msapplication-config", content: "/favicon/browserconfig.xml" },
         { name: "theme-color", content: "#ffffff" },
