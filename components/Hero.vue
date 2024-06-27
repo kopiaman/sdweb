@@ -34,7 +34,6 @@ onMounted(() => {
           <div
             class="flex flex-col md:flex-row justify-center gap-x-2 gap-y-3 mb-3"
           >
-            <meta charset="utf-8" />
             <a
               class="btn btn-primary btn-lg"
               id=""
@@ -43,11 +42,11 @@ onMounted(() => {
               data-eventid="signup"
               >Saya nak sertai!</a
             >
-            <a
+
+            <nuxt-link
+              to="/#testimonials"
               class="btn btn-lg btn-ghost btn-primary"
-              href="/#testimonialHeader"
-              id=""
-              >Lihat Testimoni</a
+              >Lihat Testimoni</nuxt-link
             >
           </div>
         </div>

@@ -1,13 +1,13 @@
 <template>
-  <section class="" id="testimonialHeader">
+  <section class="" id="testimonials">
     <div class="container">
       <div class="row pt-10">
         <div class="col md:w-8/12 mx-auto text-center">
           <h2 class="display-6 font-semibold mb-3" data-aos="zoom-in">
-            Testimonial
+            Testimoni
           </h2>
           <p class="font-semibold h5" data-aos="zoom-in">
-            Ratusan yang telah join program ini dan mendapat hasil yang ketara
+            Ribuan yang telah join program ini dan mendapat hasil yang ketara
             dalam masa beberapa bulan! Malah sekiranya tidak mencapai sasaran
             anda wang anda boleh dikembalikan
           </p>

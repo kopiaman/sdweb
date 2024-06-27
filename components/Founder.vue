@@ -4,7 +4,7 @@
       <div class="row items-center">
         <div class="col md:w-3/12">
           <h2 class="display-6 font-semibold text-dark" data-aos="fade-left">
-            Siapa orang kuat di belakang program ini?
+            Siapa Kami?
           </h2>
         </div>
         <div class="col md:w-8/12 md:mx-1/12">

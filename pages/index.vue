@@ -1,5 +1,4 @@
 <template>
-  <TheNav />
   <Hero />
   <FeaturedIn />
   <StoryProblem />
@@ -11,5 +10,4 @@
   <Target />
   <WhoShouldJoin />
   <LastCTA />
-  <TheFooter />
 </template>

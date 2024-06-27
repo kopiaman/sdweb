@@ -50,23 +50,25 @@
         
         <!-- CTA -->
         <div class="col">
-          <button
+
+        
+          <a
             class="btn btn-primary btn-lg mt-4 mr-4 bg-primary border-primary"
-            href="https://forms.gle/NAxGq2nEiLgfaj6J8"
+            href="https://forms.gle/eDrDiWE2TnhdQz1Y8"
             target="_blank"
           >
-            <span class="text-light mr-3">Saya nak mulakan sekarang!</span>
-            <fa-icon icon="arrow-right" />
-          </button>
-   
-          <a
-            class="btn btn-lg mt-4 bg-white border-primary"
-            href="/#testimonialHeader"
-          >
-            <span class="mr-3">Saya masih tak percaya</span>
-
+            <span class="text-light mr-3">Jom Daftar!</span>
             <fa-icon icon="arrow-right" />
           </a>
+   
+         
+
+          <nuxt-link
+            class="btn btn-lg mt-4 bg-white border-primary"
+            to="/#testimonials">
+            <span class="mr-3">Saya masih tak percaya</span>
+                <fa-icon icon="arrow-right" />
+          </nuxt-link>
 
           
           <ul class="list-none mt-4 text-primary font-semibold mb-6">

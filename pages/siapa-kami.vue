@@ -1,4 +1,3 @@
 <template>
-  <TheNav />
   <Founder />
 </template>

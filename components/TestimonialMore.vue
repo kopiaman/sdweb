@@ -1,5 +1,5 @@
 <template>
-  <section class="py-0" id="feature">
+  <section class="py-0" id="testimonialsMore">
     <div class="container">
       <div class="row">
         <div class="col md:w-8/12 mx-auto text-center">
@@ -13,7 +13,7 @@
     </div>
   </section>
 
-  <section class="pb-28" id="testimonials">
+  <section class="pb-28" id="testimonialsMore">
     <div class="container-fluid">
       <div class="row mt-12">
         <div class="col md:w-6/12 lg:w-3/12">
