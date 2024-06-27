@@ -1,18 +1,19 @@
 // https://nuxt.com/docs/api/configuration/nuxt-config
+const title =
+  "NakSelesaiHutangCepat.my - Settle hutang, tambah pendapatan dan simpanan anda";
+const desc =
+  "Kami ada cara untuk anda mengurangkan komitmen sekurang-kurangnya 40% sampai sifar hutang. Malah kami beri solusi tambah simpanan sampai 5-6 angka! Lagi best, cara tambah duit side income RM2K-RM20K++!";
 export default defineNuxtConfig({
   devtools: { enabled: true },
   app: {
     head: {
       charset: "utf-8",
       viewport: "width=device-width, initial-scale=1",
-      title:
-        "NakSelesaiHutangCepat.my - Settle hutang, tambah pendapatan dan simpanan anda",
+      title: title,
       meta: [
-        {
-          name: "description",
-          content:
-            "Kami ada cara untuk anda mengurangkan komitmen sekurang-kurangnya 40% sampai sifar hutang. Malah kami beri solusi tambah simpanan sampai 5-6 angka! Lagi best, cara tambah duit side income RM2K-RM20K++!",
-        },
+        { name: "description", content: desc },
+        { hid: "og:title", name: "og:title", content: title },
+        { hid: "description", name: "description", content: desc },
         { name: "msapplication-TileColor", content: "#da532c" },
         { name: "msapplication-config", content: "/favicon/browserconfig.xml" },
         { name: "theme-color", content: "#ffffff" },
@@ -43,7 +44,6 @@ export default defineNuxtConfig({
         },
         { rel: "shortcut icon", href: "/favicon/favicon.ico" },
       ],
-
       script: [],
     },
   },

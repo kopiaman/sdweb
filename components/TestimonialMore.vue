@@ -37,7 +37,6 @@
                   B40. Bukan mustahil perbaiki kewangan melalui program ini
                   walaupun suri rumah sepenuh masa seperti saya
                 </p>
-                <meta charset="utf-8" />
               </div>
             </div>
             <div class="row items-center">
@@ -45,7 +44,7 @@
                 <img
                   alt="image"
                   class="rounded-full mr-4 h-[50px]"
-                  src="https://d1pnnwteuly8z3.cloudfront.net/images/fc70ebef-0954-4785-87d1-9e4b49295ad5/a57c7c73-6a09-44ab-9817-b7074d2e3ac2.png"
+                  src="/public/img/testimonial/testi-yad.png"
                 />
                 <p class="inline-block">
                   <strong>Yad Zahari</strong>
@@ -76,7 +75,6 @@
                   sebulan. Ia benar-benar mengubah hidup saya positif, memberi
                   saya harapan untuk masa depan yang lebih baik.
                 </p>
-                <meta charset="utf-8" />
               </div>
             </div>
             <div class="row items-center">
@@ -84,7 +82,7 @@
                 <img
                   alt="image"
                   class="rounded-full mr-4 h-[50px]"
-                  src="https://d1pnnwteuly8z3.cloudfront.net/images/fc70ebef-0954-4785-87d1-9e4b49295ad5/05efa60e-b25d-48b1-87f3-26e18c18fd01.png"
+                  src="/public/img/testimonial/testi-drhasan.png"
                 />
                 <p class="inline-block">
                   <strong>Dr. Syakur</strong>
@@ -121,7 +119,7 @@
                 <img
                   alt="image"
                   class="rounded-full mr-4 h-[50px]"
-                  src="https://d1pnnwteuly8z3.cloudfront.net/images/fc70ebef-0954-4785-87d1-9e4b49295ad5/606584f8-13bc-4c84-9c1c-2732238919e0.png"
+                  src="/public/img/testimonial/testi-zul.png"
                 />
                 <p class="inline-block">
                   <strong>Zulhelmy Badrunzaman</strong>
@@ -152,7 +150,7 @@
                 <img
                   alt="image"
                   class="h-[50px] mr-4 border-[2px] rounded-full"
-                  src="https://d1pnnwteuly8z3.cloudfront.net/images/fc70ebef-0954-4785-87d1-9e4b49295ad5/f56caf10-a8c9-450e-a7ef-cf87dfd07de2.png"
+                  src="/public/img/testimonial/testi-saiful.png"
                 />
                 <p class="inline-block">
                   <strong>Saiful</strong>
@@ -186,7 +184,7 @@
                 <img
                   alt="image"
                   class="rounded-full mr-4 h-[50px]"
-                  src="https://d1pnnwteuly8z3.cloudfront.net/images/fc70ebef-0954-4785-87d1-9e4b49295ad5/6e31a7a2-d97a-459a-91a5-7a9b76549cfc.png"
+                  src="/public/img/testimonial/testi-harwinder.png"
                 />
                 <p class="inline-block">
                   <strong>Harwin</strong>
@@ -225,7 +223,7 @@
                 <img
                   alt="image"
                   class="rounded-full mr-4 h-[50px]"
-                  src="https://d1pnnwteuly8z3.cloudfront.net/images/fc70ebef-0954-4785-87d1-9e4b49295ad5/d2aff4a3-4bf6-4d23-9780-afd039657b42.png"
+                  src="/public/img/testimonial/testi-iskandar.png"
                 />
                 <p class="inline-block">
                   <strong>Arif Iskandar</strong>
@@ -298,7 +296,7 @@
                 <img
                   alt="image"
                   class="rounded-full mr-4 h-[50px]"
-                  src="https://d1pnnwteuly8z3.cloudfront.net/images/fc70ebef-0954-4785-87d1-9e4b49295ad5/9fdc400d-1b44-417a-81d5-f6fa41489cb8.png"
+                  src="/public/img/testimonial/testi-kartini.png"
                 />
                 <p class="inline-block">
                   <strong>Kartini Kassim</strong>
@@ -335,7 +333,7 @@
                 <img
                   alt="image"
                   class="rounded-full mr-4 h-[50px]"
-                  src="https://d1pnnwteuly8z3.cloudfront.net/images/fc70ebef-0954-4785-87d1-9e4b49295ad5/526e64be-46d9-4731-bd00-86a57cbcf8dc.png"
+                  src="/public/img/testimonial/testi-wijay.png"
                 />
                 <p class="inline-block">
                   <strong>Wijay N.B</strong>

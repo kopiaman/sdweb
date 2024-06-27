@@ -147,8 +147,9 @@
         >
           <img
             alt="product"
-            src="https://d1pnnwteuly8z3.cloudfront.net/images/fc70ebef-0954-4785-87d1-9e4b49295ad5/bc1fe1dd-b1fc-4c3a-8ef1-de312fb3c1ed.png"
-            class="bg-secondary from-primary to-secondary mix-blend-normal duration-[1500ms] taos:translate-y-[200px] taos:opacity-0"
+            src="/public/img/mimpi-compress.png"
+            class="bg-secondary from-primary to-secondary mix-blend-normal"
+            data-aos="fade-up"
           />
         </div>
       </div>
@@ -162,7 +163,7 @@
             class="p-12 text-center text-white bg-gradient-to-r from-primary to-secondary rounded-lg shadow-lg"
             data-aos="fade-up"
           >
-            <h2 class="font-semibold">
+            <h2 class="font-semibold" data-aos="zoom-in">
               TIDAK, jadikan mimpi itu anda itu sekarang jadi kenyataan !
             </h2>
           </div>
@@ -176,7 +177,7 @@
         <div class="col lg:w-10/12 xl:w-9/12 mx-auto">
           <div
             class="p-12 text-center text-white bg-gradient-to-r from-primary to-secondary rounded-lg shadow-lg"
-            data-aos="fade-up"
+            data-aos="zoom-in"
           >
             <h2 class="font-semibold">
               <br />Kami akan bantu anda selesaikan masalah hutang piutang anda
