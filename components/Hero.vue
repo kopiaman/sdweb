@@ -23,7 +23,7 @@ onMounted(() => {
           <h1 class="display-4 mb-6 font-semibold text-dark">
             Anda dah serabut dengan<span class="block text-secondary">
               <span class="inline-block" ref="typedElement"
-                >hutang & komitmen yang tinggi?</span
+                >hutang & komitmen?</span
               >
             </span>
           </h1>

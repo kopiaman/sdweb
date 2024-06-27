@@ -31,7 +31,9 @@ export default defineNuxtConfig({
     icons: {
       solid: [
         "users",
+        "users-cog",
         "comments",
+        "comments-dollar",
         "business-time",
         "chalkboard-teacher",
         "archive",

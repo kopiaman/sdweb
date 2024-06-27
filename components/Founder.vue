@@ -23,7 +23,7 @@
                 <div class="p-5 md:p-0">
                   <p class="mb-2">
                     Faizul Ridzuan merupakan pengasas kepada program ini. Beliau
-                    adalah CEO dan pengarah kepada FAR CAPITAL. Beliau adalah
+                    adalah CEO dan Pengerusi kepada FAR CAPITAL. Beliau adalah
                     tokoh terkenal dalam industri hartanah tempatan, sering
                     dijemput oleh media, korporat, dan kerajaan untuk berkongsi
                     pandangannya. Pada tahun 2022, beliau dilantik oleh

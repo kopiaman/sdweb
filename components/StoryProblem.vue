@@ -147,7 +147,7 @@
         >
           <img
             alt="product"
-            src="https://d1pnnwteuly8z3.cloudfront.net/images/fc70ebef-0954-4785-87d1-9e4b49295ad5/e876c676-bdb0-4dd9-a48b-0b1b6ef0df08.png"
+            src="https://d1pnnwteuly8z3.cloudfront.net/images/fc70ebef-0954-4785-87d1-9e4b49295ad5/bc1fe1dd-b1fc-4c3a-8ef1-de312fb3c1ed.png"
             class="bg-secondary from-primary to-secondary mix-blend-normal duration-[1500ms] taos:translate-y-[200px] taos:opacity-0"
           />
         </div>
