@@ -167,20 +167,5 @@ module.exports = {
       screens: {},
     },
   },
-  plugins: [
-    require("taos/plugin"),
-    require("@tailwindcss/typography"),
-    require("@tailwindcss/forms"),
-  ],
-  //safelist from taos
-  safelist: [
-    "!duration-[0ms]",
-    "!delay-[0ms]",
-    'html.js :where([class*="taos:"]:not(.taos-init))',
-  ],
-  content: {
-    relative: true,
-    transform: (content) => content.replace(/taos:/g, ""),
-    files: ["./src/*.{html,js}"],
-  },
+  plugins: [require("@tailwindcss/typography"), require("@tailwindcss/forms")],
 };
