@@ -5,7 +5,7 @@
         <img
           class="h-8"
           alt="company logo"
-          src="https://d1pnnwteuly8z3.cloudfront.net/images/dafc1e05-b0e8-4c6d-b375-4a62333bbd5a/7b42a557-d0ca-43cd-8f4c-796756bad4c1.svg"
+          src="/public/img/nshc-logo_tiny.png"
         />
         <span class="text-secondary">NakSelesaiHutangCepat.my</span>
       </a>
