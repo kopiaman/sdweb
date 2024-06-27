@@ -9,7 +9,7 @@
         />
         <span class="text-secondary">NakSelesaiHutangCepat.my</span>
       </a>
-      <button
+      <!-- <button
         class="navbar-btn"
         data-toggle="collapse"
         data-target="#navbar-row"
@@ -37,7 +37,7 @@
             >
           </li>
         </ul>
-      </div>
+      </div> -->
     </div>
   </nav>
 </template>

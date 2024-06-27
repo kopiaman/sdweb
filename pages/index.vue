@@ -5,8 +5,8 @@
   <StoryProblem />
   <Testimonial />
   <TestimonialMore />
-  <StoryReally />
-  <StoryProgram />
+  <!-- <StoryReally /> -->
+  <!-- <StoryProgram /> -->
   <Benefit />
   <Target />
   <WhoShouldJoin />
