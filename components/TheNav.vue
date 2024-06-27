@@ -2,11 +2,7 @@
   <nav class="navbar sticky top-0 bg-white" id="navbar">
     <div class="container">
       <a class="navbar-brand" href="/">
-        <img
-          class="h-8"
-          alt="company logo"
-          src="/public/img/nshc-logo_tiny.png"
-        />
+        <img class="h-8" alt="company logo" src="/public/img/logo.png" />
         <span class="text-secondary">NakSelesaiHutangCepat.my</span>
       </a>
       <!-- <button

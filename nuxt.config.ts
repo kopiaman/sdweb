@@ -18,6 +18,18 @@ export default defineNuxtConfig({
         { hid: "og:title", name: "og:title", content: title },
         { hid: "og:description", name: "og:description", content: desc },
         { hid: "og:image", name: "og:image", content: ogImage },
+        { hid: "og:locale", name: "og:locale", content: "ms_MY" },
+        {
+          hid: "og:url",
+          name: "og:url",
+          content: "https://nakselesaihutangcepat.my",
+        },
+        { hid: "og:type", name: "og:type", content: "website" },
+        {
+          hid: "og:logo",
+          name: "og:logo",
+          content: "https://https://nakselesaihutangcepat.my/img/logo.png",
+        },
 
         { name: "twitter:card", content: "summary_large_image" },
         { name: "twitter:title", content: title },
