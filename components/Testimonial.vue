@@ -3,8 +3,10 @@
     <div class="container">
       <div class="row pt-10">
         <div class="col md:w-8/12 mx-auto text-center">
-          <h2 class="display-6 font-semibold mb-3">Testimonial</h2>
-          <p class="font-semibold h5">
+          <h2 class="display-6 font-semibold mb-3" data-aos="zoom-in">
+            Testimonial
+          </h2>
+          <p class="font-semibold h5" data-aos="zoom-in">
             Ratusan yang telah join program ini dan mendapat hasil yang ketara
             dalam masa beberapa bulan! Malah sekiranya tidak mencapai sasaran
             anda wang anda boleh dikembalikan
@@ -13,7 +15,8 @@
       </div>
     </div>
   </section>
-  <section class="py-14" id="testimonials">
+
+  <section class="py-14" id="testimonials1" data-aos="zoom-in">
     <div class="container">
       <div class="row py-12 items-center relative">
         <div
@@ -28,7 +31,7 @@
         </div>
         <div class="col md:w-10/12 lg:w-6/12 mx-auto z-[1]">
           <div class="lg:pl-12 mt-6">
-            <p class="h4 font-semibold text-muted taos:translate-x-[200px]">
+            <p class="h4 font-semibold text-muted">
               “Dr Hanani berjaya melunaskan hutang kad kredit dan Ar-Rahnu
               sebanyak RM20K masing-masing, serta memberi sumbangan RM30K kepada
               ibu. Tambahan pula, beliau telah memiliki rumah di Johor Bahru
@@ -42,7 +45,8 @@
       </div>
     </div>
   </section>
-  <section class="py-14" id="testimonials">
+
+  <section class="py-14" id="testimonials2" data-aos="zoom-in">
     <div class="container">
       <div class="row py-12 items-center relative">
         <div
@@ -76,7 +80,8 @@
       </div>
     </div>
   </section>
-  <section class="py-14" id="testimonials">
+
+  <section class="py-14" id="testimonials3" data-aos="zoom-in">
     <div class="container">
       <div class="row py-12 items-center relative">
         <div

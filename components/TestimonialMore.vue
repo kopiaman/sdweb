@@ -3,7 +3,7 @@
     <div class="container">
       <div class="row">
         <div class="col md:w-8/12 mx-auto text-center">
-          <p class="font-semibold h5">
+          <p class="font-semibold h5" data-aos="zoom-in">
             Berikut adalah testimonial - testimonial lain dari pelbagai latar
             belakang, dari suri rumah hingga ke doktor pun telah mendapat
             manfaat!
@@ -12,12 +12,15 @@
       </div>
     </div>
   </section>
+
   <section class="pb-28" id="testimonials">
     <div class="container-fluid">
       <div class="row mt-12">
         <div class="col md:w-6/12 lg:w-3/12">
+          <!-- 1 -->
           <div
-            class="px-6 py-4 border rounded border-gray-300 shadow taos:translate-y-[-200px] taos:opacity-0"
+            class="px-6 py-4 border rounded border-gray-300 shadow"
+            data-aos="zoom-in"
           >
             <div class="row mt-6">
               <div class="col">
@@ -51,8 +54,11 @@
               </div>
             </div>
           </div>
+
+          <!-- 2 -->
           <div
-            class="px-6 py-4 mt-6 border rounded border-gray-300 shadow delay-[60ms] taos:translate-y-[-200px] taos:opacity-0"
+            class="px-6 py-4 mt-6 border rounded border-gray-300 shadow"
+            data-aos="zoom-in"
           >
             <div class="row mt-6">
               <div class="col">
@@ -88,10 +94,12 @@
             </div>
           </div>
         </div>
+
         <div class="col md:w-6/12 lg:w-3/12 mt-6 md:mt-0">
+          <!-- 3 -->
           <div
-            class="px-6 py-4 border rounded border-gray-300 shadow delay-[50ms] taos:translate-y-[-200px] taos:opacity-0"
-            data-taos-offset="50"
+            class="px-6 py-4 border rounded border-gray-300 shadow"
+            data-aos="zoom-in"
           >
             <div class="row mt-6">
               <div class="col">
@@ -121,8 +129,11 @@
               </div>
             </div>
           </div>
+
+          <!-- 4 -->
           <div
-            class="px-6 py-4 mt-6 border rounded border-gray-300 shadow delay-[120ms] taos:translate-y-[-200px] taos:opacity-0"
+            class="px-6 py-4 mt-6 border rounded border-gray-300 shadow"
+            data-aos="zoom-in"
           >
             <div class="row mt-6">
               <div class="col">
@@ -134,7 +145,6 @@
                   dan aliran tunai positif bulanan, menjadikan program ini
                   pilihan yang bijak untuk saya.
                 </p>
-                <meta charset="utf-8" />
               </div>
             </div>
             <div class="row items-center">
@@ -151,9 +161,11 @@
               </div>
             </div>
           </div>
-          <meta charset="utf-8" />
+
+          <!-- 5 -->
           <div
-            class="px-6 py-4 mt-6 border rounded border-gray-300 shadow delay-[220ms] taos:translate-y-[-200px] taos:opacity-0"
+            class="px-6 py-4 mt-6 border rounded border-gray-300 shadow"
+            data-aos="zoom-in"
           >
             <div class="row mt-6">
               <div class="col">
@@ -167,7 +179,6 @@
                   saya. Kini saya pula dapat membantu rakan rakan saya lain yang
                   masih bergelut dalam hutang.
                 </p>
-                <meta charset="utf-8" />
               </div>
             </div>
             <div class="row items-center">
@@ -185,9 +196,11 @@
             </div>
           </div>
         </div>
-        <div class="col md:w-6/12 lg:w-3/12 hidden lg:block">
+        <div class="col md:w-6/12 lg:w-3/12">
+          <!-- 6 -->
           <div
-            class="px-6 py-4 border rounded border-gray-300 shadow delay-[100ms] taos:translate-y-[-200px] taos:opacity-0"
+            class="px-6 py-4 border rounded border-gray-300 shadow"
+            data-aos="zoom-in"
             data-taos-offset="100"
           >
             <div class="row mt-6">
@@ -221,8 +234,11 @@
               </div>
             </div>
           </div>
+
+          <!-- 7 -->
           <div
-            class="px-6 py-4 mt-6 border rounded border-gray-300 shadow delay-[180ms] taos:translate-y-[-200px] taos:opacity-0"
+            class="px-6 py-4 mt-6 border rounded border-gray-300 shadow"
+            data-aos="zoom-in"
           >
             <div class="row mt-6">
               <div class="col">
@@ -252,9 +268,12 @@
             </div>
           </div>
         </div>
-        <div class="col md:w-6/12 lg:w-3/12 hidden lg:block">
+
+        <div class="col md:w-6/12 lg:w-3/12">
+          <!-- 8 -->
           <div
-            class="px-6 py-4 border rounded border-gray-300 shadow delay-[150ms] taos:translate-y-[-200px] taos:opacity-0"
+            class="px-6 py-4 border rounded border-gray-300 shadow"
+            data-aos="zoom-in"
             data-taos-offset="150"
           >
             <div class="row mt-6">
@@ -288,8 +307,11 @@
               </div>
             </div>
           </div>
+
+          <!-- 9 -->
           <div
-            class="px-6 py-4 mt-6 border rounded border-gray-300 shadow delay-[200ms] taos:translate-y-[-200px] taos:opacity-0"
+            class="px-6 py-4 mt-6 border rounded border-gray-300 shadow"
+            data-aos="zoom-in"
           >
             <div class="row mt-6">
               <div class="col">
@@ -306,7 +328,6 @@
                   melalui program side income mereka. Terima kasih, atas peluang
                   ini
                 </p>
-                <meta charset="utf-8" />
               </div>
             </div>
             <div class="row items-center">
@@ -323,16 +344,16 @@
               </div>
             </div>
           </div>
-          <meta charset="utf-8" />
+
           <div
-            class="px-6 py-4 mt-6 border rounded border-gray-300 shadow taos:scale-[0.6] taos:opacity-0"
+            class="px-6 py-4 mt-6 border rounded border-gray-300 shadow"
+            data-aos="zoom-in"
           >
             <div class="row mt-6">
               <div class="col">
                 <p class="font-bold">Tahukah anda</p>
-                <meta charset="utf-8" />
+
                 <h2 class="text-6xl font-semibold text-primary">23,000+</h2>
-                <meta charset="utf-8" />
               </div>
             </div>
             <div class="row items-center">

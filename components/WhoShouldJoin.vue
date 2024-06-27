@@ -3,12 +3,15 @@
     <div class="container">
       <div class="row justify-center pb-12">
         <div class="col text-center">
-          <h2 class="display-4 font-semibold">Siapa yang sesuai menyertai?</h2>
+          <h2 class="display-4 font-semibold" data-aos="zoom-in">
+            Siapa yang sesuai menyertai?
+          </h2>
         </div>
       </div>
       <div class="row mb-12">
+        <!-- 1 -->
         <div class="col md:w-6/12 lg:w-4/12 mb-5">
-          <div class="bg-primary-50 p-6 h-full">
+          <div class="bg-primary-50 p-6 h-full" data-aos="fade-up">
             <div class="mb-5">
               <FaIcon class="text-5xl text-primary" icon="anchor" />
             </div>
@@ -21,7 +24,9 @@
             </p>
           </div>
         </div>
-        <div class="col md:w-6/12 lg:w-4/12 mb-5">
+
+        <!-- 2 -->
+        <div class="col md:w-6/12 lg:w-4/12 mb-5" data-aos="fade-up">
           <div class="bg-primary-50 p-6 h-full">
             <div class="mb-5">
               <FaIcon class="text-5xl text-primary" icon="warehouse" />
@@ -33,7 +38,9 @@
             <p>Jika anda telah mempunyai hartanah, tapi anda mahu lagi!</p>
           </div>
         </div>
-        <div class="col md:w-6/12 lg:w-4/12 mb-5">
+
+        <!-- 3 -->
+        <div class="col md:w-6/12 lg:w-4/12 mb-5" data-aos="fade-up">
           <div class="bg-primary-50 p-6 h-full">
             <div class="mb-5">
               <FaIcon class="text-5xl text-primary" icon="running" />
@@ -48,8 +55,10 @@
             </p>
           </div>
         </div>
+
+        <!-- 4 -->
         <div class="col md:w-6/12 lg:w-4/12 mb-5">
-          <div class="bg-primary-50 p-6 h-full">
+          <div class="bg-primary-50 p-6 h-full" data-aos="fade-up">
             <div class="mb-5">
               <FaIcon class="text-5xl text-primary" icon="hand-holding-usd" />
             </div>
@@ -62,8 +71,10 @@
             </p>
           </div>
         </div>
+
+        <!-- 5 -->
         <div class="col md:w-6/12 lg:w-4/12 mb-5">
-          <div class="bg-primary-50 p-6 h-full">
+          <div class="bg-primary-50 p-6 h-full" data-aos="fade-up">
             <div class="mb-5">
               <FaIcon class="text-5xl text-primary" icon="house-damage" />
             </div>
@@ -77,7 +88,9 @@
             </p>
           </div>
         </div>
-        <div class="col md:w-6/12 lg:w-4/12 mb-5">
+
+        <!-- 6 -->
+        <div class="col md:w-6/12 lg:w-4/12 mb-5" data-aos="fade-up">
           <div class="bg-primary-50 p-6 h-full">
             <div class="mb-5">
               <FaIcon class="text-5xl text-primary" icon="hands-helping" />

@@ -50,9 +50,6 @@ onMounted(() => {
               >Lihat Testimoni</a
             >
           </div>
-          <p class="block mb-4 text-sm text-muted">
-            Tiada deposit diperlukan. Jaminan wang dikembalikan
-          </p>
         </div>
       </div>
     </div>
