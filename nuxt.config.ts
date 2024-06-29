@@ -69,7 +69,12 @@ export default defineNuxtConfig({
       script: [],
     },
   },
-  modules: ["@nuxtjs/tailwindcss", "@vesp/nuxt-fontawesome", "nuxt-aos"],
+  modules: [
+    "@nuxtjs/tailwindcss",
+    "@vesp/nuxt-fontawesome",
+    "nuxt-aos",
+    "nuxt-meta-pixel",
+  ],
   tailwindcss: {
     cssPath: ["~/assets/css/tailwind.css", { injectPosition: "first" }],
     configPath: "tailwind.config.js",
@@ -104,6 +109,13 @@ export default defineNuxtConfig({
         "angle-double-up",
         "hand-holding-usd",
       ],
+    },
+  },
+  runtimeConfig: {
+    public: {
+      metapixel: {
+        default: { id: "345975823310181" },
+      },
     },
   },
 });
