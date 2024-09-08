@@ -3,7 +3,7 @@
     <div class="container">
       <a class="navbar-brand" href="/">
         <img class="h-8" alt="company logo" src="/public/img/logo.png" />
-        <span class="text-secondary">NakSelesaiHutangCepat.my</span>
+        <span class="text-secondary">SUAdigital.my</span>
       </a>
       <!-- <button
         class="navbar-btn"
