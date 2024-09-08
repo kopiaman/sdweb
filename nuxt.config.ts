@@ -1,8 +1,7 @@
 // https://nuxt.com/docs/api/configuration/nuxt-config
 const title =
-  "NakSelesaiHutangCepat.my - Settle hutang, tambah pendapatan dan simpanan anda";
-const desc =
-  "Kami ada cara untuk anda mengurangkan komitmen sekurang-kurangnya 40% sampai sifar hutang. Malah kami beri solusi tambah simpanan sampai 5-6 angka! Lagi best, cara tambah duit side income RM2K-RM20K++!";
+  "SUA DIGITAL - Empowering your organization with our Intelligent AI Solutions.";
+const desc = "Bridging Innovation and Efficiency Through AI.";
 const ogImage =
   "https://d1pnnwteuly8z3.cloudfront.net/images/fc70ebef-0954-4785-87d1-9e4b49295ad5/54896a41-ac63-4f3e-83f1-2f555fb11610.png";
 
@@ -22,13 +21,13 @@ export default defineNuxtConfig({
         {
           hid: "og:url",
           name: "og:url",
-          content: "https://nakselesaihutangcepat.my",
+          content: "https://suadigital.my",
         },
         { hid: "og:type", name: "og:type", content: "website" },
         {
           hid: "og:logo",
           name: "og:logo",
-          content: "https://https://nakselesaihutangcepat.my/img/logo.png",
+          content: "https://nakselesaihutangcepat.my/img/logo.png",
         },
 
         { name: "twitter:card", content: "summary_large_image" },
@@ -108,6 +107,8 @@ export default defineNuxtConfig({
         "hands-helping",
         "angle-double-up",
         "hand-holding-usd",
+        "envelope",
+        "phone",
       ],
     },
   },

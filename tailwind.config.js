@@ -14,7 +14,7 @@ module.exports = {
         192: "48rem",
       },
       colors: {
-        primary: {
+        tertiary: {
           50: "#eff6ff",
           100: "#dbeafe",
           200: "#bfdbfe",
@@ -42,7 +42,7 @@ module.exports = {
           950: "#500724",
           DEFAULT: "#db2777",
         },
-        tertiary: {
+        primary: {
           50: "#f5f3ff",
           100: "#ede9fe",
           200: "#ddd6fe",

@@ -1,13 +1,7 @@
 <template>
-  <Hero />
-  <FeaturedIn />
-  <StoryProblem />
-  <Testimonial />
-  <TestimonialMore />
-  <!-- <StoryReally /> -->
-  <!-- <StoryProgram /> -->
-  <Benefit />
-  <Target />
-  <WhoShouldJoin />
-  <LastCTA />
+  <NewHero />
+  <Stats />
+  <UseCases />
+  <OurCoreServices />
+  <TalkToUse />
 </template>
