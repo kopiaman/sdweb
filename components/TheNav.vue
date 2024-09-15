@@ -8,7 +8,7 @@
           <span class="text-black">DIGITAL</span>
         </span>
       </a>
-      <!-- <button
+      <button
         class="navbar-btn"
         data-toggle="collapse"
         data-target="#navbar-row"
@@ -25,7 +25,11 @@
           <li></li>
           <li></li>
         </ul>
-        <ul class="navbar-col"></ul>
+        <ul class="navbar-col">
+          <li>
+            <a target="_blank">Our Services</a>
+          </li>
+        </ul>
         <ul class="navbar-col">
           <li>
             <a
@@ -36,7 +40,7 @@
             >
           </li>
         </ul>
-      </div> -->
+      </div>
     </div>
   </nav>
 </template>

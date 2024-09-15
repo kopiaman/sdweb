@@ -3,5 +3,5 @@
   <OurCoreServices />
   <UseCases />
   <Stats />
-  <TalkToUse />
+  <TalkToUs />
 </template>

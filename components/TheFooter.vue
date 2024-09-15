@@ -3,7 +3,8 @@
     <div class="container">
       <div class="row">
         <div class="col text-center">
-          <div
+          <!-- LINKS -->
+          <!-- <div
             class="flex flex-col md:flex-row justify-center mx-auto mb-6 gap-y-3"
           >
             <NuxtLink to="/#testimonials" class="px-4 no-underline text-white"
@@ -18,9 +19,9 @@
               >Siapa Kami</NuxtLink
             >
 
-            <!-- <NuxtLink to="/faq" class="px-4 no-underline text-white"
+            <NuxtLink to="/faq" class="px-4 no-underline text-white"
               >FAQ</NuxtLink
-            > -->
+            > 
 
             <a
               class="px-4 no-underline text-white"
@@ -34,9 +35,9 @@
               target="_blank"
               >Pertanyaan</a
             >
-          </div>
+          </div> -->
           <div class="text-center text-white text-sm mb-6">
-            <p class="mb-0">© 2024 NakSelesaiHutangCepat.my</p>
+            <p class="mb-0">© 2024 SuaDigital.my</p>
           </div>
 
           <!-- SOCIAL MEDIA -->
