@@ -50,12 +50,12 @@
           <p class="mt-1">
             <fa-icon icon="envelope" class="mr-2"></fa-icon>
             <strong>Email:</strong>
-            <a href="mailto:jomai@yahoo.com">jomai@yahoo.com</a>
+            <a href="mailto:hello@suadigital.my"> hello@suadigital.my</a>
           </p>
           <p class="mt-1">
             <fa-icon icon="whatsapp" class="mr-2"></fa-icon>
             <strong>WhatsApp:</strong>
-            <a href="https://wa.me/609123213123">+609123213123</a>
+            <a href="https://wa.me/60197645074"> 60197645074</a>
           </p>
         </div>
       </div>

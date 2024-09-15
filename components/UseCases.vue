@@ -96,14 +96,14 @@
                 >
                   <img
                     class="w-full h-full object-cover grayscale"
-                    src="https://d1pnnwteuly8z3.cloudfront.net/images/dafc1e05-b0e8-4c6d-b375-4a62333bbd5a/34c05906-8d83-4a50-84ae-d7d141b51e09.jpeg"
+                    src="/public/img/usecase-smile.jpg"
                     loading="lazy"
                     alt=""
                     width="950"
                     height="1309"
                   />
                   <div
-                    class="absolute left-0 top-0 right-auto bottom-0 bg-primary w-24 md:w-32 mix-blend-multiply"
+                    class="absolute left-0 top-0 right-auto bottom-0 bg-primary w-24 md:w-16 mix-blend-multiply"
                   ></div>
                 </div>
               </div>
@@ -149,10 +149,10 @@
                 >
                   <img
                     class="w-full h-full object-cover grayscale"
-                    src="https://d1pnnwteuly8z3.cloudfront.net/images/dafc1e05-b0e8-4c6d-b375-4a62333bbd5a/1a3d4486-2de9-4b2c-b07d-2c1946ead683.jpeg"
+                    src="/public/img/usecase-meet.jpg"
                   />
                   <div
-                    class="absolute left-0 top-0 right-auto bottom-0 bg-primary w-24 md:w-32 mix-blend-multiply"
+                    class="absolute left-0 top-0 right-auto bottom-0 bg-primary w-24 md:w-16 mix-blend-multiply"
                   ></div>
                 </div>
               </div>
@@ -198,10 +198,10 @@
                 >
                   <img
                     class="w-full h-full object-cover grayscale"
-                    src="https://d1pnnwteuly8z3.cloudfront.net/images/dafc1e05-b0e8-4c6d-b375-4a62333bbd5a/52e40a39-304b-4acf-b8cf-889dce96c583.jpeg"
+                    src="/public/img/usecase-client.jpg"
                   />
                   <div
-                    class="absolute left-0 top-0 right-auto bottom-0 bg-primary w-24 md:w-32 mix-blend-multiply"
+                    class="absolute left-0 top-0 right-auto bottom-0 bg-primary w-24 md:w-16 mix-blend-multiply"
                   ></div>
                 </div>
               </div>

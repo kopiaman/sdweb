@@ -1,7 +1,7 @@
 <template>
   <NewHero />
-  <Stats />
-  <UseCases />
   <OurCoreServices />
+  <UseCases />
+  <Stats />
   <TalkToUse />
 </template>
