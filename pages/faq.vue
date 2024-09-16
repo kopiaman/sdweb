@@ -1,3 +1,0 @@
-<template>
-  <FAQ></FAQ>
-</template>
