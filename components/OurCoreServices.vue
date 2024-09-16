@@ -1,5 +1,5 @@
 <template>
-  <section class="py-12 bg-neutral-200 md:py-16 lg:py-24">
+  <section class="py-12 bg-neutral-200 md:py-16 lg:py-24" id="services">
     <div class="container">
       <!-- heading -->
       <div class="row mb-8 md:mb-16">
