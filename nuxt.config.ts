@@ -2,8 +2,7 @@
 const title =
   "SUA DIGITAL - Empowering your organization with our Intelligent AI Solutions.";
 const desc = "Bridging Innovation and Efficiency Through AI.";
-const ogImage =
-  "https://d1pnnwteuly8z3.cloudfront.net/images/fc70ebef-0954-4785-87d1-9e4b49295ad5/54896a41-ac63-4f3e-83f1-2f555fb11610.png";
+const ogImage = "/img/suadigital-og.png";
 
 export default defineNuxtConfig({
   devtools: { enabled: true },
@@ -27,7 +26,7 @@ export default defineNuxtConfig({
         {
           hid: "og:logo",
           name: "og:logo",
-          content: "https://nakselesaihutangcepat.my/img/logo.png",
+          content: "/favicon/favicon-32x32.png",
         },
 
         { name: "twitter:card", content: "summary_large_image" },

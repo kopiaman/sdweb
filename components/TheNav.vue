@@ -20,7 +20,7 @@
         <span class="block h-1 mt-1 rounded-full bg-primary"></span>
         <span class="block h-1 mt-1 rounded-full bg-primary"></span>
       </button>
-      <div class="navbar-row" id="navbar-row">
+      <!-- <div class="navbar-row" id="navbar-row">
         <ul class="navbar-col">
           <li></li>
           <li></li>
@@ -40,7 +40,7 @@
             >
           </li>
         </ul>
-      </div>
+      </div> -->
     </div>
   </nav>
 </template>
