@@ -1,5 +1,5 @@
 <template>
-  <nav class="navbar sticky top-0 bg-white" id="navbar">
+  <nav class="navbar sticky top-0 bg-white z-50" id="navbar">
     <div class="container flex justify-between items-center mx-auto p-2">
       <a class="navbar-brand flex items-center" href="/">
         <img
@@ -37,14 +37,11 @@
       <!-- navigation for desktop -->
       <div class="hidden lg:flex space-x-8 md:items-center">
         <a
-          href="#services"
+          v-for="item in navItems"
+          :key="item.text"
+          :href="item.href"
           class="hover:text-primary transition-colors duration-300"
-          >Our Services</a
-        >
-        <a
-          href="#usecases"
-          class="hover:text-primary transition-colors duration-300"
-          >Use Cases</a
+          >{{ item.text }}</a
         >
         <a
           class="btn btn-dark bg-primary text-white py-2 px-4 rounded hover:bg-secondary transition-colors duration-300"
@@ -61,18 +58,11 @@
       class="lg:hidden transition-all duration-500 ease-in-out"
     >
       <ul class="flex flex-col items-center space-y-4 bg-white p-4">
-        <li>
+        <li v-for="item in navItems" :key="item.text">
           <a
-            href="#services"
+            :href="item.href"
             class="hover:text-primary transition-colors duration-300"
-            >Our Services</a
-          >
-        </li>
-        <li>
-          <a
-            href="#usecases"
-            class="hover:text-primary transition-colors duration-300"
-            >Use Cases</a
+            >{{ item.text }}</a
           >
         </li>
         <li>
@@ -88,12 +78,19 @@
   </nav>
 </template>
 
-<script setup="ts">
+<script setup>
+import { ref } from "vue";
+
 const isOpen = ref(false);
 
 const toggleMenu = () => {
   isOpen.value = !isOpen.value;
 };
+
+const navItems = ref([
+  { text: "Our Services", href: "#services" },
+  { text: "Use Cases", href: "#usecases" },
+]);
 </script>
 
 <style scoped>

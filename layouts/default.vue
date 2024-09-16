@@ -3,8 +3,8 @@ import { SpeedInsights } from "@vercel/speed-insights/nuxt";
 </script>
 
 <template>
+  <TheNav />
   <div class="overflow-x-hidden">
-    <TheNav />
     <slot />
     <TheFooter />
   </div>
