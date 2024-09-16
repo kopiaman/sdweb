@@ -1,6 +1,6 @@
 <template>
   <nav class="navbar sticky top-0 bg-white" id="navbar">
-    <div class="container flex justify-between items-center mx-auto p-4">
+    <div class="container flex justify-between items-center mx-auto p-2">
       <a class="navbar-brand flex items-center" href="/">
         <img
           class="h-8 mr-2"

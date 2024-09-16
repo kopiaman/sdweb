@@ -40,10 +40,7 @@
             <a class="btn btn-primary btn-lg" href="mailto:hello@suadigital.my"
               >Email Us
             </a>
-            <button
-              class="btn btn-lg btn-secondary"
-              href="https://wa.me/60197645074"
-            >
+            <button class="btn btn-lg bg-green-500" @click="openWhatsApp">
               Whatsapp Us
             </button>
           </div>
@@ -52,3 +49,11 @@
     </div>
   </section>
 </template>
+
+<script lang="ts" setup>
+const openWhatsApp = () => {
+  const phoneNumber = "0197645074"; // Replace this with your actual phone number in international format without '+'
+  const url = `https://wa.me/${phoneNumber}`;
+  window.open(url, "_blank");
+};
+</script>

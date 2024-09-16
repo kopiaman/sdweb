@@ -12,8 +12,9 @@
           <p class="mb-6 text-lg font-medium text-muted">
             Empowering your organization with our tailor-made AI Solutions.
           </p>
+
           <div
-            class="flex flex-row mb-8 md:mb-16 justify-left flex-wrap gap-x-3 gap-y-3"
+            class="hidden md:flex flex-row mb-8 md:mb-16 justify-left flex-wrap gap-x-3 gap-y-3"
           >
             <a class="btn btn-primary btn-lg" href="#talktous">Contact Us</a>
             <a class="btn btn-lg btn-transparent" href="#usecases">Use Cases</a>
