@@ -12,10 +12,17 @@
           <div
             class="inline-flex flex-col md:flex-row justify-center gap-x-2 gap-y-3 mb-3"
           >
-            <a class="btn btn-primary btn-lg" href="mailto:hello@suadigital.my"
+            <a
+              class="btn btn-primary btn-lg"
+              href="mailto:hello@suadigital.my"
+              data-aos="fade-left"
               >Email Us
             </a>
-            <button class="btn btn-lg bg-green-500" @click="openWhatsApp">
+            <button
+              class="btn btn-lg bg-green-500"
+              @click="openWhatsApp"
+              data-aos="fade-right"
+            >
               Whatsapp Us
             </button>
           </div>

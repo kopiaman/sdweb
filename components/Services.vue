@@ -1,6 +1,6 @@
 <template>
   <section
-    class="py-12 bg-neutral-200 md:py-16 lg:py-24"
+    class="bg-neutral-200 md:py-16 py-24"
     id="services"
     data-aos="fade-up"
   >
