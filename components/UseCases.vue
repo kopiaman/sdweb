@@ -80,19 +80,10 @@
                   reduce costs and enhance service delivery, ultimately creating
                   a more responsive governance structure for citizens.
                 </p>
-                <a
-                  class="btn btn-lg group relative font-medium p-0 hover:text-primary"
-                  href="#"
-                  >See all Services<span
-                    class="w-6 duration-300 absolute -right-8 group-hover:-right-9"
-                  >
-                    <!-- Arrow SVG -->
-                  </span>
-                </a>
               </div>
               <div class="col lg:w-6/12">
                 <div
-                  class="relative overflow-clip rounded-2xl h-[32rem] w-full"
+                  class="relative overflow-clip rounded-2xl md:h-[32rem] w-full"
                 >
                   <img
                     class="w-full h-full object-cover grayscale"
@@ -133,19 +124,10 @@
                   interactions, and increased customer satisfaction, freeing up
                   resources for employees to focus on complex tasks.
                 </p>
-                <a
-                  class="btn btn-lg group relative font-medium p-0 hover:text-primary"
-                  href="#"
-                  >See all Services<span
-                    class="w-6 duration-300 absolute -right-8 group-hover:-right-9"
-                  >
-                    <!-- Arrow SVG -->
-                  </span>
-                </a>
               </div>
               <div class="col lg:w-6/12">
                 <div
-                  class="relative overflow-clip rounded-2xl h-[32rem] w-full"
+                  class="relative overflow-clip rounded-2xl md:h-[32rem] w-full"
                 >
                   <img
                     class="w-full h-full object-cover grayscale"
@@ -182,19 +164,10 @@
                   customers through automated messages, businesses can increase
                   conversion rates while minimizing manual workload.
                 </p>
-                <a
-                  class="btn btn-lg group relative font-medium p-0 hover:text-primary"
-                  href="#"
-                  >See all Services<span
-                    class="w-6 duration-300 absolute -right-8 group-hover:-right-9"
-                  >
-                    <!-- Arrow SVG -->
-                  </span>
-                </a>
               </div>
               <div class="col lg:w-6/12">
                 <div
-                  class="relative overflow-clip rounded-2xl h-[32rem] w-full"
+                  class="relative overflow-clip rounded-2xl md:h-[32rem] w-full"
                 >
                   <img
                     class="w-full h-full object-cover grayscale"
