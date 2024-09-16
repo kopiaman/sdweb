@@ -1,5 +1,9 @@
 <template>
-  <section class="py-12 bg-neutral-200 md:py-16 lg:py-24" id="services">
+  <section
+    class="py-12 bg-neutral-200 md:py-16 lg:py-24"
+    id="services"
+    data-aos="fade-up"
+  >
     <div class="container">
       <!-- heading -->
       <div class="row mb-8 md:mb-16">
@@ -18,7 +22,9 @@
 
       <!-- content -->
       <div class="grid md:grid-cols-3 gap-x-10 gap-y-8">
+        <!-- AI -->
         <div
+          data-aos="fade-left"
           class="group flex flex-col gap-4 items-start bg-white p-8 rounded-2xl"
         >
           <fa-icon icon="robot" class="text-4xl text-primary-700"></fa-icon>
@@ -30,7 +36,9 @@
           </p>
         </div>
 
+        <!-- DIgitlization -->
         <div
+          data-aos="fade-up"
           class="group flex flex-col gap-4 items-start bg-white p-8 rounded-2xl"
         >
           <fa-icon icon="file-alt" class="text-4xl text-primary-700"></fa-icon>
@@ -43,6 +51,7 @@
 
         <!-- WEB MOBILE SOLUTIONS -->
         <div
+          data-aos="fade-right"
           class="group flex flex-col gap-4 items-start bg-white p-8 rounded-2xl"
         >
           <fa-icon

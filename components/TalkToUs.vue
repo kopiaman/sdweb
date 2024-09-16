@@ -1,30 +1,5 @@
 <template>
-  <!-- <section class="py-28 bg-primary-50" id="cta">
-    <div class="container">
-      <div class="row">
-        <div class="col md:w-8/12 text-center mx-auto">
-          <h2 class="font-semibold mb-3">
-            Ready to Transform Your Organization?
-          </h2>
-          <h5 class="mb-4">
-            Discover how AI can elevate your organization to the next level. We
-            are ready to present tailored solutions that drive value and
-            efficiency. Contact us today!
-          </h5>
-          <div
-            class="inline-flex flex-col md:flex-row justify-center gap-x-2 gap-y-3 mb-3"
-          >
-            <a class="btn btn-primary btn-lg" href="#">Get Started ➔</a>
-            <button class="btn btn-lg btn-ghost btn-primary" href="#">
-              Book a Demo
-            </button>
-          </div>
-          <p class="mt-4 text-muted"></p>
-        </div>
-      </div>
-    </div>
-  </section> -->
-  <section class="py-28 bg-dark text-white" id="talktous">
+  <section class="py-28 bg-dark text-white" id="talktous" data-aos="fade-up">
     <div class="container">
       <div class="row">
         <div class="col md:w-8/12 text-center mx-auto">

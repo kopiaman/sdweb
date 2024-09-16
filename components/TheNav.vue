@@ -62,6 +62,7 @@
           <a
             :href="item.href"
             class="hover:text-primary transition-colors duration-300"
+            @click="toggleMenu"
             >{{ item.text }}</a
           >
         </li>
@@ -69,6 +70,7 @@
           <a
             class="bg-primary text-white py-2 px-4 rounded hover:bg-secondary transition-colors duration-300"
             href="#talktous"
+            @click="toggleMenu"
           >
             Contact Us!
           </a>

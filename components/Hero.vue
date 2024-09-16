@@ -6,7 +6,7 @@
     <div class="container">
       <div class="row items-end relative gap-y-12">
         <div class="col lg:w-6/12">
-          <h1 class="display-3 mb-4">
+          <h1 class="display-3 mb-4" data-aos="fade-up">
             Bridging Innovation and Efficiency Through AI.
           </h1>
           <p class="mb-6 text-lg font-medium text-muted">

@@ -1,5 +1,5 @@
 <template>
-  <section class="py-28 bg-primary-50" id="clients">
+  <section class="py-28 bg-primary-50" id="clients" data-aos="fade-up">
     <div class="container">
       <!-- heading -->
       <div class="mb-8 md:mb-16 text-center">
@@ -7,7 +7,7 @@
       </div>
 
       <div class="row">
-        <div class="col lg:w-3/12 md:w-6/12">
+        <div class="col lg:w-3/12 md:w-6/12" data-aos="fade-left">
           <h2 class="text-6xl font-semibold text-primary">70%</h2>
           <p class="text-lg font-bold">Routine Tasks Automated</p>
           <p>
@@ -15,7 +15,7 @@
             government agencies, significantly improving operational efficiency.
           </p>
         </div>
-        <div class="col lg:w-3/12 md:w-6/12">
+        <div class="col lg:w-3/12 md:w-6/12" data-aos="fade-left">
           <h2 class="text-6xl font-semibold text-primary">20-40%</h2>
           <p class="text-lg font-bold">Efficiency Gains</p>
           <p>
@@ -23,7 +23,7 @@
             <strong>20-40%</strong> for federal agencies.
           </p>
         </div>
-        <div class="col lg:w-3/12 md:w-6/12">
+        <div class="col lg:w-3/12 md:w-6/12" data-aos="fade-right">
           <h2 class="text-6xl font-semibold text-primary">69%</h2>
           <p class="text-lg font-bold">Customer Preference</p>
           <p>
@@ -31,7 +31,7 @@
             chatbots for quick communication with brands.
           </p>
         </div>
-        <div class="col lg:w-3/12 md:w-6/12">
+        <div class="col lg:w-3/12 md:w-6/12" data-aos="fade-right">
           <h2 class="text-6xl font-semibold text-primary">14%</h2>
           <p class="text-lg font-bold">Productivity Boost</p>
           <p>

@@ -1,5 +1,5 @@
 <template>
-  <section class="py-12 md:py-16 lg:py-24" id="usecases">
+  <section class="py-12 md:py-16 lg:py-24" id="usecases" data-aos="fade-up">
     <div class="container">
       <!--heading  -->
       <div class="row mb-8 md:mb-16">

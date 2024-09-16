@@ -1,6 +1,6 @@
 // https://nuxt.com/docs/api/configuration/nuxt-config
 const title =
-  "SUA DIGITAL - Empowering your organization with our Intelligent AI Solutions.";
+  "SUA DIGITAL - Empowering your organization with our tailor-made AI Solutions.";
 const desc = "Bridging Innovation and Efficiency Through AI.";
 const ogImage = "/img/suadigital-og.png";
 
