@@ -108,6 +108,13 @@ export default defineNuxtConfig({
         "hand-holding-usd",
         "envelope",
         "phone",
+        //use in services
+        "brain",
+        "robot",
+        "file-alt",
+        "cogs",
+        "chart-bar",
+        "laptop-code",
       ],
     },
   },
