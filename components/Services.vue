@@ -1,16 +1,12 @@
 <template>
-  <section
-    class="bg-neutral-200 md:py-16 py-24"
-    id="services"
-    data-aos="fade-up"
-  >
+  <section class="bg-neutral-200 py-28" id="services">
     <div class="container">
       <!-- heading -->
       <div class="row mb-8 md:mb-16">
-        <div class="col md:w-3/12">
+        <div class="col md:w-4/12">
           <h2 class="display-4 mb-4">Our Services</h2>
         </div>
-        <div class="col md:w-9/12">
+        <div class="col md:w-8/12">
           <p class="mb-0 text-lg font-medium text-muted">
             We leverage latest AI tools and provide solutions to empower
             government entities and SMEs. Our services are designed to

@@ -71,7 +71,7 @@ export default defineNuxtConfig({
     "@nuxtjs/tailwindcss",
     "@vesp/nuxt-fontawesome",
     "nuxt-aos",
-    "nuxt-meta-pixel",
+    // "nuxt-meta-pixel",
   ],
   tailwindcss: {
     cssPath: ["~/assets/css/tailwind.css", { injectPosition: "first" }],
@@ -118,11 +118,11 @@ export default defineNuxtConfig({
       ],
     },
   },
-  runtimeConfig: {
-    public: {
-      metapixel: {
-        default: { id: "345975823310181" },
-      },
-    },
-  },
+  // runtimeConfig: {
+  //   public: {
+  //     metapixel: {
+  //       default: { id: "345975823310181" },
+  //     },
+  //   },
+  // },
 });
